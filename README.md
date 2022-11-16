@@ -1,5 +1,5 @@
-# ECGClassifier
-Supervised Learning Algorithm for ECG (Electrocardiogram Classification)
+# ECG Classifier
+Supervised Learning Algorithm for ECG (Electrocardiogram Classification).
 The purpose of this supervised learning algoritm is to classify with decent accuracy a ECG signal into different categories:
     0 - Normal
     1 - Superventricular Premature Beat
